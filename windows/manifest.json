@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "release": "W001",
+  "publishedAt": "2026-07-22T19:00:00Z",
+  "desktop": {
+    "version": "V001",
+    "fileName": "wallpaper_desktop_V001.jpg",
+    "url": "https://raw.githubusercontent.com/diogowermann/Launer_Wallpaper/main/windows/desktop/wallpaper_desktop_V001.jpg",
+    "sha256": "023FE6BB636F0411A8567FBBF4271EE05D5556B565861A899B3AFA7BA02F5661"
+  },
+  "lockScreen": {
+    "version": "V001",
+    "fileName": "lockscreen_V001.jpg",
+    "url": "https://raw.githubusercontent.com/diogowermann/Launer_Wallpaper/main/windows/lockscreen/lockscreen_V001.jpg",
+    "sha256": "023FE6BB636F0411A8567FBBF4271EE05D5556B565861A899B3AFA7BA02F5661"
+  }
+}
